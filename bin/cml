@@ -1,2 +1,5 @@
 #!/usr/bin/env node
 
+var node = process.argv[0];
+var cml = process.argv[1];
+var task = process.argv[2];
